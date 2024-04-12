@@ -2,18 +2,20 @@
 
 # dependencies
 /appointment/node_modules
-/.pnp
+/appointment/.pnp
 .pnp.js
+.vscode
+
 
 # testing
-/coverage
+/appointment/coverage
 
 # next.js
-/.next/
-/out/
+/appointment/.next/
+/appointment/out/
 
 # production
-/build
+/appointment/build
 
 # misc
 .DS_Store
