@@ -1,0 +1,8 @@
+com.example.App=org.springframework.stereotype.Component
+com.example.controller.Controller=org.springframework.stereotype.Component
+com.example.entity.Appointment=javax.persistence.Entity
+com.example.entity.Reminder=javax.persistence.Entity
+com.example.entity.User=javax.persistence.Entity
+com.example.repository.AppointmentRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.repository.ReminderRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
+com.example.repository.UserRepository=org.springframework.stereotype.Component,org.springframework.data.repository.Repository
